@@ -1,0 +1,1053 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TickersList should create TickersList with empty tickers 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="sc-beqWaB gXAjPF"
+      >
+        <input
+          class="sc-gueYoa kDkiqi"
+          placeholder="Search"
+          type="text"
+          value=""
+        />
+        <div
+          class="sc-hLseeU dqIYtD"
+        >
+          <button
+            class="sc-jsMahE duFyhg"
+            type="button"
+          >
+            <div>
+              <svg
+                fill="currentColor"
+                height="2em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="color: rgb(169, 169, 169);"
+                version="1.1"
+                viewBox="0 0 17 17"
+                width="2em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <g />
+                <path
+                  d="M16 9h-7v7h-1v-7h-7v-1h7v-7h1v7h7v1z"
+                />
+              </svg>
+            </div>
+          </button>
+          <form
+            class="sc-blLsxD qmAYU"
+          >
+            <div
+              class="sc-ieZDjg fHRbfm"
+            >
+              <label
+                class="sc-dKfzgJ bwREst"
+                for="interval"
+              >
+                Change interval
+              </label>
+              <select
+                class="sc-hIqOWS gUmeIK"
+                name="interval"
+              >
+                <option
+                  value="2000"
+                >
+                  2000
+                </option>
+                <option
+                  value="5000"
+                >
+                  5000
+                </option>
+                <option
+                  value="10000"
+                >
+                  10000
+                </option>
+              </select>
+            </div>
+            <button
+              aria-label="button-name"
+              class="sc-jsMahE gBOoJA"
+              type="submit"
+            >
+              <div>
+                <svg
+                  fill="currentColor"
+                  height="1.5em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  style="color: rgb(169, 169, 169);"
+                  viewBox="0 0 512 512"
+                  width="1.5em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M17.47 250.9C88.82 328.1 158 397.6 224.5 485.5c72.3-143.8 146.3-288.1 268.4-444.37L460 26.06C356.9 135.4 276.8 238.9 207.2 361.9c-48.4-43.6-126.62-105.3-174.38-137z"
+                  />
+                </svg>
+              </div>
+            </button>
+          </form>
+        </div>
+        <ul
+          class="sc-dmqHEX djBFQa"
+        />
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="sc-beqWaB gXAjPF"
+    >
+      <input
+        class="sc-gueYoa kDkiqi"
+        placeholder="Search"
+        type="text"
+        value=""
+      />
+      <div
+        class="sc-hLseeU dqIYtD"
+      >
+        <button
+          class="sc-jsMahE duFyhg"
+          type="button"
+        >
+          <div>
+            <svg
+              fill="currentColor"
+              height="2em"
+              stroke="currentColor"
+              stroke-width="0"
+              style="color: rgb(169, 169, 169);"
+              version="1.1"
+              viewBox="0 0 17 17"
+              width="2em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <g />
+              <path
+                d="M16 9h-7v7h-1v-7h-7v-1h7v-7h1v7h7v1z"
+              />
+            </svg>
+          </div>
+        </button>
+        <form
+          class="sc-blLsxD qmAYU"
+        >
+          <div
+            class="sc-ieZDjg fHRbfm"
+          >
+            <label
+              class="sc-dKfzgJ bwREst"
+              for="interval"
+            >
+              Change interval
+            </label>
+            <select
+              class="sc-hIqOWS gUmeIK"
+              name="interval"
+            >
+              <option
+                value="2000"
+              >
+                2000
+              </option>
+              <option
+                value="5000"
+              >
+                5000
+              </option>
+              <option
+                value="10000"
+              >
+                10000
+              </option>
+            </select>
+          </div>
+          <button
+            aria-label="button-name"
+            class="sc-jsMahE gBOoJA"
+            type="submit"
+          >
+            <div>
+              <svg
+                fill="currentColor"
+                height="1.5em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="color: rgb(169, 169, 169);"
+                viewBox="0 0 512 512"
+                width="1.5em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M17.47 250.9C88.82 328.1 158 397.6 224.5 485.5c72.3-143.8 146.3-288.1 268.4-444.37L460 26.06C356.9 135.4 276.8 238.9 207.2 361.9c-48.4-43.6-126.62-105.3-174.38-137z"
+                />
+              </svg>
+            </div>
+          </button>
+        </form>
+      </div>
+      <ul
+        class="sc-dmqHEX djBFQa"
+      />
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`TickersList should create TickersList with tickers 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="sc-beqWaB gXAjPF"
+      >
+        <input
+          class="sc-gueYoa kDkiqi"
+          placeholder="Search"
+          type="text"
+          value=""
+        />
+        <div
+          class="sc-hLseeU dqIYtD"
+        >
+          <button
+            class="sc-jsMahE duFyhg"
+            type="button"
+          >
+            <div>
+              <svg
+                fill="currentColor"
+                height="2em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="color: rgb(169, 169, 169);"
+                version="1.1"
+                viewBox="0 0 17 17"
+                width="2em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <g />
+                <path
+                  d="M16 9h-7v7h-1v-7h-7v-1h7v-7h1v7h7v1z"
+                />
+              </svg>
+            </div>
+          </button>
+          <form
+            class="sc-blLsxD qmAYU"
+          >
+            <div
+              class="sc-ieZDjg fHRbfm"
+            >
+              <label
+                class="sc-dKfzgJ bwREst"
+                for="interval"
+              >
+                Change interval
+              </label>
+              <select
+                class="sc-hIqOWS gUmeIK"
+                name="interval"
+              >
+                <option
+                  value="2000"
+                >
+                  2000
+                </option>
+                <option
+                  value="5000"
+                >
+                  5000
+                </option>
+                <option
+                  value="10000"
+                >
+                  10000
+                </option>
+              </select>
+            </div>
+            <button
+              aria-label="button-name"
+              class="sc-jsMahE gBOoJA"
+              type="submit"
+            >
+              <div>
+                <svg
+                  fill="currentColor"
+                  height="1.5em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  style="color: rgb(169, 169, 169);"
+                  viewBox="0 0 512 512"
+                  width="1.5em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M17.47 250.9C88.82 328.1 158 397.6 224.5 485.5c72.3-143.8 146.3-288.1 268.4-444.37L460 26.06C356.9 135.4 276.8 238.9 207.2 361.9c-48.4-43.6-126.62-105.3-174.38-137z"
+                  />
+                </svg>
+              </div>
+            </button>
+          </form>
+        </div>
+        <ul
+          class="sc-dmqHEX djBFQa"
+        >
+          <li
+            class="sc-eDDNvR bgmdmx"
+          >
+            <p
+              class="sc-gLDzan jqmmMg"
+            >
+              AAPL
+            </p>
+            <div
+              class="sc-irTswW fEaOni"
+            >
+              <div
+                class="sc-qRumB chtsoU"
+              >
+                <p
+                  class="sc-jTrPJq fzYZhv"
+                >
+                  AAPL
+                </p>
+                <p
+                  class="sc-jTrPJq bykVUO"
+                >
+                  NASDAQ
+                </p>
+                <p
+                  class="sc-jTrPJq jFElar"
+                >
+                  2023-04-11
+                </p>
+              </div>
+              <div
+                class="sc-qRumB chtsoU"
+              >
+                <span
+                  class="sc-fsQiph jUXrBf"
+                >
+                  price
+                </span>
+                <p
+                  class="sc-jTrPJq kOUrFe"
+                >
+                  244.12
+                   $
+                </p>
+              </div>
+              <div
+                class="sc-qRumB chtsoU"
+              >
+                 
+                <span
+                  class="sc-fsQiph iRAPes"
+                >
+                  change
+                </span>
+                <p
+                  class="sc-jTrPJq bymxEU"
+                >
+                  77.83
+                </p>
+                <span
+                  class="sc-fsQiph iRAPes"
+                >
+                  change percent
+                </span>
+                <p
+                  class="sc-iAEyYk fJVrnu"
+                >
+                  0.02
+                </p>
+              </div>
+              <div
+                class="sc-qRumB chtsoU"
+              >
+                <span
+                  class="sc-fsQiph iRAPes"
+                >
+                  divident
+                </span>
+                <p
+                  class="sc-iAEyYk eZLJrK"
+                >
+                  0.59
+                </p>
+                <span
+                  class="sc-fsQiph iRAPes"
+                >
+                  yield
+                </span>
+                <p
+                  class="sc-iAEyYk fJVrnu"
+                >
+                  0.50
+                </p>
+              </div>
+              <div
+                class="sc-qRumB chtsoU"
+              >
+                <button
+                  aria-label="button-name"
+                  class="sc-jsMahE gBOoJA"
+                >
+                  <div>
+                    <svg
+                      fill="currentColor"
+                      height="2.5em"
+                      stroke="currentColor"
+                      stroke-width="0"
+                      style="color: rgb(169, 169, 169);"
+                      version="1.1"
+                      viewBox="0 0 16 16"
+                      width="2.5em"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M2 5v10c0 0.55 0.45 1 1 1h9c0.55 0 1-0.45 1-1v-10h-11zM5 14h-1v-7h1v7zM7 14h-1v-7h1v7zM9 14h-1v-7h1v7zM11 14h-1v-7h1v7z"
+                      />
+                      <path
+                        d="M13.25 2h-3.25v-1.25c0-0.412-0.338-0.75-0.75-0.75h-3.5c-0.412 0-0.75 0.338-0.75 0.75v1.25h-3.25c-0.413 0-0.75 0.337-0.75 0.75v1.25h13v-1.25c0-0.413-0.338-0.75-0.75-0.75zM9 2h-3v-0.987h3v0.987z"
+                      />
+                    </svg>
+                  </div>
+                  <div
+                    class="sc-kFuwaP cyfLjy"
+                  >
+                    Remove from the list
+                  </div>
+                </button>
+              </div>
+            </div>
+            <button
+              class="sc-jsMahE jsRHci"
+            >
+              show less
+            </button>
+          </li>
+          <li
+            class="sc-eDDNvR bgmdmx"
+          >
+            <p
+              class="sc-gLDzan jqmmMg"
+            >
+              GOOGL
+            </p>
+            <div
+              class="sc-irTswW fEaOni"
+            >
+              <div
+                class="sc-qRumB chtsoU"
+              >
+                <p
+                  class="sc-jTrPJq fzYZhv"
+                >
+                  GOOGL
+                </p>
+                <p
+                  class="sc-jTrPJq bykVUO"
+                >
+                  NASDAQ
+                </p>
+                <p
+                  class="sc-jTrPJq jFElar"
+                >
+                  2023-04-11
+                </p>
+              </div>
+              <div
+                class="sc-qRumB chtsoU"
+              >
+                <span
+                  class="sc-fsQiph jUXrBf"
+                >
+                  price
+                </span>
+                <p
+                  class="sc-jTrPJq kOUrFe"
+                >
+                  124.14
+                   $
+                </p>
+              </div>
+              <div
+                class="sc-qRumB chtsoU"
+              >
+                 
+                <span
+                  class="sc-fsQiph iRAPes"
+                >
+                  change
+                </span>
+                <p
+                  class="sc-jTrPJq bymxEU"
+                >
+                  11.04
+                </p>
+                <span
+                  class="sc-fsQiph iRAPes"
+                >
+                  change percent
+                </span>
+                <p
+                  class="sc-iAEyYk fJVrnu"
+                >
+                  0.31
+                </p>
+              </div>
+              <div
+                class="sc-qRumB chtsoU"
+              >
+                <span
+                  class="sc-fsQiph iRAPes"
+                >
+                  divident
+                </span>
+                <p
+                  class="sc-iAEyYk dTrgbf"
+                >
+                  0.23
+                </p>
+                <span
+                  class="sc-fsQiph iRAPes"
+                >
+                  yield
+                </span>
+                <p
+                  class="sc-iAEyYk dkRsCj"
+                >
+                  1.55
+                </p>
+              </div>
+              <div
+                class="sc-qRumB chtsoU"
+              >
+                <button
+                  aria-label="button-name"
+                  class="sc-jsMahE gBOoJA"
+                >
+                  <div>
+                    <svg
+                      fill="currentColor"
+                      height="2.5em"
+                      stroke="currentColor"
+                      stroke-width="0"
+                      style="color: rgb(169, 169, 169);"
+                      version="1.1"
+                      viewBox="0 0 16 16"
+                      width="2.5em"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M2 5v10c0 0.55 0.45 1 1 1h9c0.55 0 1-0.45 1-1v-10h-11zM5 14h-1v-7h1v7zM7 14h-1v-7h1v7zM9 14h-1v-7h1v7zM11 14h-1v-7h1v7z"
+                      />
+                      <path
+                        d="M13.25 2h-3.25v-1.25c0-0.412-0.338-0.75-0.75-0.75h-3.5c-0.412 0-0.75 0.338-0.75 0.75v1.25h-3.25c-0.413 0-0.75 0.337-0.75 0.75v1.25h13v-1.25c0-0.413-0.338-0.75-0.75-0.75zM9 2h-3v-0.987h3v0.987z"
+                      />
+                    </svg>
+                  </div>
+                  <div
+                    class="sc-kFuwaP cyfLjy"
+                  >
+                    Remove from the list
+                  </div>
+                </button>
+              </div>
+            </div>
+            <button
+              class="sc-jsMahE jsRHci"
+            >
+              show less
+            </button>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="sc-beqWaB gXAjPF"
+    >
+      <input
+        class="sc-gueYoa kDkiqi"
+        placeholder="Search"
+        type="text"
+        value=""
+      />
+      <div
+        class="sc-hLseeU dqIYtD"
+      >
+        <button
+          class="sc-jsMahE duFyhg"
+          type="button"
+        >
+          <div>
+            <svg
+              fill="currentColor"
+              height="2em"
+              stroke="currentColor"
+              stroke-width="0"
+              style="color: rgb(169, 169, 169);"
+              version="1.1"
+              viewBox="0 0 17 17"
+              width="2em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <g />
+              <path
+                d="M16 9h-7v7h-1v-7h-7v-1h7v-7h1v7h7v1z"
+              />
+            </svg>
+          </div>
+        </button>
+        <form
+          class="sc-blLsxD qmAYU"
+        >
+          <div
+            class="sc-ieZDjg fHRbfm"
+          >
+            <label
+              class="sc-dKfzgJ bwREst"
+              for="interval"
+            >
+              Change interval
+            </label>
+            <select
+              class="sc-hIqOWS gUmeIK"
+              name="interval"
+            >
+              <option
+                value="2000"
+              >
+                2000
+              </option>
+              <option
+                value="5000"
+              >
+                5000
+              </option>
+              <option
+                value="10000"
+              >
+                10000
+              </option>
+            </select>
+          </div>
+          <button
+            aria-label="button-name"
+            class="sc-jsMahE gBOoJA"
+            type="submit"
+          >
+            <div>
+              <svg
+                fill="currentColor"
+                height="1.5em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="color: rgb(169, 169, 169);"
+                viewBox="0 0 512 512"
+                width="1.5em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M17.47 250.9C88.82 328.1 158 397.6 224.5 485.5c72.3-143.8 146.3-288.1 268.4-444.37L460 26.06C356.9 135.4 276.8 238.9 207.2 361.9c-48.4-43.6-126.62-105.3-174.38-137z"
+                />
+              </svg>
+            </div>
+          </button>
+        </form>
+      </div>
+      <ul
+        class="sc-dmqHEX djBFQa"
+      >
+        <li
+          class="sc-eDDNvR bgmdmx"
+        >
+          <p
+            class="sc-gLDzan jqmmMg"
+          >
+            AAPL
+          </p>
+          <div
+            class="sc-irTswW fEaOni"
+          >
+            <div
+              class="sc-qRumB chtsoU"
+            >
+              <p
+                class="sc-jTrPJq fzYZhv"
+              >
+                AAPL
+              </p>
+              <p
+                class="sc-jTrPJq bykVUO"
+              >
+                NASDAQ
+              </p>
+              <p
+                class="sc-jTrPJq jFElar"
+              >
+                2023-04-11
+              </p>
+            </div>
+            <div
+              class="sc-qRumB chtsoU"
+            >
+              <span
+                class="sc-fsQiph jUXrBf"
+              >
+                price
+              </span>
+              <p
+                class="sc-jTrPJq kOUrFe"
+              >
+                244.12
+                 $
+              </p>
+            </div>
+            <div
+              class="sc-qRumB chtsoU"
+            >
+               
+              <span
+                class="sc-fsQiph iRAPes"
+              >
+                change
+              </span>
+              <p
+                class="sc-jTrPJq bymxEU"
+              >
+                77.83
+              </p>
+              <span
+                class="sc-fsQiph iRAPes"
+              >
+                change percent
+              </span>
+              <p
+                class="sc-iAEyYk fJVrnu"
+              >
+                0.02
+              </p>
+            </div>
+            <div
+              class="sc-qRumB chtsoU"
+            >
+              <span
+                class="sc-fsQiph iRAPes"
+              >
+                divident
+              </span>
+              <p
+                class="sc-iAEyYk eZLJrK"
+              >
+                0.59
+              </p>
+              <span
+                class="sc-fsQiph iRAPes"
+              >
+                yield
+              </span>
+              <p
+                class="sc-iAEyYk fJVrnu"
+              >
+                0.50
+              </p>
+            </div>
+            <div
+              class="sc-qRumB chtsoU"
+            >
+              <button
+                aria-label="button-name"
+                class="sc-jsMahE gBOoJA"
+              >
+                <div>
+                  <svg
+                    fill="currentColor"
+                    height="2.5em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    style="color: rgb(169, 169, 169);"
+                    version="1.1"
+                    viewBox="0 0 16 16"
+                    width="2.5em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M2 5v10c0 0.55 0.45 1 1 1h9c0.55 0 1-0.45 1-1v-10h-11zM5 14h-1v-7h1v7zM7 14h-1v-7h1v7zM9 14h-1v-7h1v7zM11 14h-1v-7h1v7z"
+                    />
+                    <path
+                      d="M13.25 2h-3.25v-1.25c0-0.412-0.338-0.75-0.75-0.75h-3.5c-0.412 0-0.75 0.338-0.75 0.75v1.25h-3.25c-0.413 0-0.75 0.337-0.75 0.75v1.25h13v-1.25c0-0.413-0.338-0.75-0.75-0.75zM9 2h-3v-0.987h3v0.987z"
+                    />
+                  </svg>
+                </div>
+                <div
+                  class="sc-kFuwaP cyfLjy"
+                >
+                  Remove from the list
+                </div>
+              </button>
+            </div>
+          </div>
+          <button
+            class="sc-jsMahE jsRHci"
+          >
+            show less
+          </button>
+        </li>
+        <li
+          class="sc-eDDNvR bgmdmx"
+        >
+          <p
+            class="sc-gLDzan jqmmMg"
+          >
+            GOOGL
+          </p>
+          <div
+            class="sc-irTswW fEaOni"
+          >
+            <div
+              class="sc-qRumB chtsoU"
+            >
+              <p
+                class="sc-jTrPJq fzYZhv"
+              >
+                GOOGL
+              </p>
+              <p
+                class="sc-jTrPJq bykVUO"
+              >
+                NASDAQ
+              </p>
+              <p
+                class="sc-jTrPJq jFElar"
+              >
+                2023-04-11
+              </p>
+            </div>
+            <div
+              class="sc-qRumB chtsoU"
+            >
+              <span
+                class="sc-fsQiph jUXrBf"
+              >
+                price
+              </span>
+              <p
+                class="sc-jTrPJq kOUrFe"
+              >
+                124.14
+                 $
+              </p>
+            </div>
+            <div
+              class="sc-qRumB chtsoU"
+            >
+               
+              <span
+                class="sc-fsQiph iRAPes"
+              >
+                change
+              </span>
+              <p
+                class="sc-jTrPJq bymxEU"
+              >
+                11.04
+              </p>
+              <span
+                class="sc-fsQiph iRAPes"
+              >
+                change percent
+              </span>
+              <p
+                class="sc-iAEyYk fJVrnu"
+              >
+                0.31
+              </p>
+            </div>
+            <div
+              class="sc-qRumB chtsoU"
+            >
+              <span
+                class="sc-fsQiph iRAPes"
+              >
+                divident
+              </span>
+              <p
+                class="sc-iAEyYk dTrgbf"
+              >
+                0.23
+              </p>
+              <span
+                class="sc-fsQiph iRAPes"
+              >
+                yield
+              </span>
+              <p
+                class="sc-iAEyYk dkRsCj"
+              >
+                1.55
+              </p>
+            </div>
+            <div
+              class="sc-qRumB chtsoU"
+            >
+              <button
+                aria-label="button-name"
+                class="sc-jsMahE gBOoJA"
+              >
+                <div>
+                  <svg
+                    fill="currentColor"
+                    height="2.5em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    style="color: rgb(169, 169, 169);"
+                    version="1.1"
+                    viewBox="0 0 16 16"
+                    width="2.5em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M2 5v10c0 0.55 0.45 1 1 1h9c0.55 0 1-0.45 1-1v-10h-11zM5 14h-1v-7h1v7zM7 14h-1v-7h1v7zM9 14h-1v-7h1v7zM11 14h-1v-7h1v7z"
+                    />
+                    <path
+                      d="M13.25 2h-3.25v-1.25c0-0.412-0.338-0.75-0.75-0.75h-3.5c-0.412 0-0.75 0.338-0.75 0.75v1.25h-3.25c-0.413 0-0.75 0.337-0.75 0.75v1.25h13v-1.25c0-0.413-0.338-0.75-0.75-0.75zM9 2h-3v-0.987h3v0.987z"
+                    />
+                  </svg>
+                </div>
+                <div
+                  class="sc-kFuwaP cyfLjy"
+                >
+                  Remove from the list
+                </div>
+              </button>
+            </div>
+          </div>
+          <button
+            class="sc-jsMahE jsRHci"
+          >
+            show less
+          </button>
+        </li>
+      </ul>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
